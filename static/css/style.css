@@ -1,0 +1,35 @@
+/* Your CSS code here */
+/* This file is included on every page. */
+.list {
+  display: inline-block;
+  margin: 5px;
+  border: 1px green solid;
+  border-radius: 5px;
+  vertical-align: top;
+  padding: 5px;
+  width: 30%;  
+}
+
+.card, 
+.add_card, 
+.list_name {
+  margin-bottom: 3px;
+  padding: 3px;
+  border: 1px green solid;
+}
+
+.list_name {
+  background-color: blue; 
+}
+
+.card {
+  background-color: green; 
+}
+
+.add_card {
+  background-color: yellow; 
+}
+
+h1 {
+  color: red;
+}
